@@ -1,0 +1,6 @@
+framework module CWNetwoking {
+  umbrella header "CWNetwoking-umbrella.h"
+
+  export *
+  module * { export * }
+}

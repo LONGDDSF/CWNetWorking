@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'CWNetwoking_Example' do
+  pod 'CWNetwoking', :path => '../'
+
+  target 'CWNetwoking_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

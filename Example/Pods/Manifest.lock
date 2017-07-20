@@ -1,0 +1,16 @@
+PODS:
+  - CWNetwoking (0.1.0)
+
+DEPENDENCIES:
+  - CWNetwoking (from `../`)
+
+EXTERNAL SOURCES:
+  CWNetwoking:
+    :path: ../
+
+SPEC CHECKSUMS:
+  CWNetwoking: 54b6db47a924cde17156bf5896b085a760e1c38f
+
+PODFILE CHECKSUM: 09aeb614558f8a26507256944081204b85f2093a
+
+COCOAPODS: 1.2.1
